@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"st",
+				"student_class"
+			],
+			[
+				"cu",
+				"current_session"
+			],
+			[
+				"c",
+				"current_term"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"T",
+				"Term"
+			],
+			[
+				"p",
+				"purpose"
+			],
+			[
+				"curr",
+				"current_term"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"reg",
+				"reg"
+			],
+			[
+				"cur",
+				"current_term"
+			],
+			[
+				"f",
+				"forms"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"deta",
+				"detail_id"
+			],
+			[
+				"det",
+				"detail_id"
+			],
+			[
+				"Pa",
+				"PaymentsForm"
+			],
+			[
+				"stu",
+				"student_class"
+			],
+			[
+				"pa",
+				"PaymentsForm"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"C",
+				"CASCADE"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"cl",
+				"class_student"
+			],
+			[
+				"rE",
+				"Registration_Number"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"gen",
+				"generate"
+			],
+			[
+				"gener",
+				"generate"
+			],
+			[
+				"posi",
+				"position_list"
+			],
+			[
+				"g",
+				"generate"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"R",
+				"RichTextField"
+			],
+			[
+				"fina",
+				"final_total"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"ad",
+				"administrator"
+			],
+			[
+				"to",
+				"to_session"
+			],
+			[
+				"succe",
+				"successfully"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"ne",
+				"newsdetails"
+			],
+			[
+				"gt",
+				"get"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"curre",
+				"current_term"
+			],
+			[
+				"fr",
+				"from_class"
+			],
+			[
+				"from",
+				"from_class"
+			],
+			[
+				"St",
+				"Student"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"Stu",
+				"Student"
+			],
+			[
+				"cure",
+				"current_class"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"frm",
+				"from_term"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"fro",
+				"from_class"
+			],
+			[
+				"pt",
+				"print"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"Re",
+				"return"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Se",
+				"SessionAdmin"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"D",
+				"DoesNotExist"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"G",
+				"GeneratePin"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"opt",
+				"optionb"
+			],
+			[
+				"send",
+				"sending_button"
+			],
+			[
+				"la",
+				"label_10"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"qu",
+				"query_general_result"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"tot",
+				"total_course"
+			],
+			[
+				"a",
+				"average"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"co",
+				"commit"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"firs_",
+				"first_name"
+			],
+			[
+				"firs",
+				"first_test"
+			],
+			[
+				"r",
+				"Registration_Number"
+			],
+			[
+				"of",
+				"offer_not"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ordr",
+				"order_by"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"stud",
+				"student_res"
+			],
+			[
+				"stt",
+				"student_result"
+			],
+			[
+				"P",
+				"PositiveIntegerField"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"x",
+				"X-CSRFTOKEN"
+			],
+			[
+				"xr",
+				"xhr"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"QM",
+				"QMessageBox"
+			],
+			[
+				"Qt",
+				"QtGui"
+			],
+			[
+				"Cs",
+				"CASCADE"
+			],
+			[
+				"al",
+				"all_subject"
+			],
+			[
+				"ter",
+				"term"
+			],
+			[
+				"ls",
+				"last_name"
+			],
+			[
+				"cre",
+				"create_user"
+			],
+			[
+				"sy",
+				"syn_list"
+			],
+			[
+				"q",
+				"question_list"
+			],
+			[
+				"que",
+				"ques_count"
+			],
+			[
+				"rad",
+				"radioButton_43"
+			],
+			[
+				"is",
+				"isChecked"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"ans",
+				"ans_list"
+			],
+			[
+				"en",
+				"englishdrilleruserans"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"Cele",
+				"CelebrityTest"
+			],
+			[
+				"tr",
+				"treat_description"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"detail",
+				"detail2"
+			],
+			[
+				"E",
+				"EmailMultiAlternatives"
+			],
+			[
+				"me",
+				"message"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project/project/settings.py",
+			"settings":
+			{
+				"buffer_size": 3825,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project/project/urls.py",
+			"settings":
+			{
+				"buffer_size": 795,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project/index/urls.py",
+			"settings":
+			{
+				"buffer_size": 471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 3827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2156,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project/index/views.py",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/BUDESCODE/Documents/coding/projects/landing page/project",
+		"/C/Users/BUDESCODE/Documents/coding/projects/landing page/project/index",
+		"/C/Users/BUDESCODE/Documents/coding/projects/landing page/project/project"
+	],
+	"file_history":
+	[
+		"/C/Users/BUDESCODE/Documents/coding/projects/landing page/project/project/__init__.py",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/administrator/payment_edit_success.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/home/student_payment_confirm.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/home/paymenterror.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/administrator/models.py",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/home/single-blog.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/administrator/select_student.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/account/change_password_success.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/administrator/payment.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/templates/base.html",
+		"/C/Users/BUDESCODE/Documents/coding/projects/school-management-system-master/website/school/static/js/new.js",
+		"/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/templates/account/edit_profile.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/atreat4u/atreat4u/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/school/settings.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/old_view.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/models.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/register.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/query_student_term.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/school/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project3.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/base.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/news.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/latestnews.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/news.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/index/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/student_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/check_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/administrator/utils.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/question.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/update_db.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/pin.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/generatepin.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/messagebox.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/static/js/new.js",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/startbootstrap-sb-admin-2-gh-pages/pages/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/change_current_session.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addsession.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/session.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addterm.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/base2.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/price.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/contact.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/about.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/index/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/logged_out.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/logout.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/login.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/scrape_eng2.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/practice_python.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/base.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project.py",
+		"/C/Users/omonbude/AppData/Local/Microsoft/Windows/INetCache/IE/QAJAG71N/scrape_eng1[1].py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/chuka/test.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/rough2.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/startbootstrap-sb-admin-2-gh-pages/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/test.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/term.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/query_general_result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/generate_Result.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/class.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/queryresult.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/addresult.html",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project2.py",
+		"/E/scrape2.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/scrape.py",
+		"/C/Users/omonbude/Documents/coding/project/faster-load.txt",
+		"/C/Users/omonbude/Documents/coding/project/school management/templates/free-educational-responsive-web-template-webEdu/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/templates/bona/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/index.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/administrator/administrator.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/new/website/school/templates/account/base.html",
+		"/C/Users/omonbude/Documents/coding/project/school management/New folder/website/school/administrator/models.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/New folder/website/school/school/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/templates/rough.html",
+		"/E/gt",
+		"/C/Users/omonbude/Documents/coding/PyQt/PyQt5_gpl-5.11.2/examples/graphicsview/embeddeddialogs/embeddeddialogs.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/movie.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/views.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test2.py",
+		"/E/login.py",
+		"/C/Users/omonbude/Documents/test.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/models.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/startbootstrap-heroic-features-master/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/text.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/magnews/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/Index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/atreat/settings.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough5.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.txt",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/template/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_success.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_code.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_email2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news_responsive.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/main_style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/base.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/home.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/meal-detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/models.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"/Users/jmitch/Dropbox/cfe/v2/src",
+			"/Users/cfe/Dev/djangular/client/src/app",
+			"/Users/jmitch/Desktop/ecommerce-2/src",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"<open files>",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"courses",
+			"learn",
+			"back",
+			"authen",
+			"tem",
+			"student_payment",
+			"check",
+			"remove",
+			"select_payment",
+			"select",
+			"paym",
+			"payy",
+			"pay f",
+			"messa",
+			"Session.o",
+			"Term.ob",
+			"  img",
+			"  IMG",
+			"img",
+			"200",
+			"payment",
+			"edit",
+			"select_student",
+			"student",
+			"query_p",
+			"select_student",
+			"current_class",
+			"query_p",
+			"query_s",
+			"query_p",
+			"students",
+			"paym",
+			"query_s",
+			"welcome",
+			"message",
+			"messages",
+			"index",
+			"leramiz",
+			"places",
+			"looking",
+			"recent",
+			"stacy",
+			"latest",
+			"popular",
+			"enter",
+			"find",
+			"payments",
+			"img",
+			"image",
+			"late",
+			"image",
+			"img",
+			"payment",
+			"promote",
+			"generate t",
+			"add re",
+			"update",
+			"pencil",
+			"image ",
+			"Students",
+			"go to",
+			"Term",
+			"try",
+			"generatePosition(",
+			"generatePosition",
+			"str",
+			"Student",
+			"generate_result",
+			"query_general_result",
+			"generate_result",
+			"position",
+			"twillo",
+			"contact",
+			"index",
+			"davis",
+			"single",
+			"aste",
+			"img",
+			"admin",
+			"image",
+			"CheckResultForm",
+			"image",
+			"student_result",
+			"student_re",
+			"student_",
+			"student'",
+			"check",
+			"post c",
+			"post",
+			"newsle",
+			"tag c",
+			"comments",
+			"footer",
+			"courses",
+			"footer",
+			"gosp",
+			"url",
+			"background",
+			"background'",
+			"body",
+			"img",
+			"blog",
+			"img",
+			"scss",
+			"href",
+			"img",
+			"      <link rel=\"stylesheet\" href=\"vendors/linericon/style.css\">",
+			"generate_average",
+			"request.POST",
+			"CREAM",
+			"gif",
+			"myToken",
+			"var t",
+			"token",
+			"onclick",
+			"add_student_result",
+			"baseurl",
+			"json",
+			"add_result",
+			"request.POST",
+			".create(",
+			"request.POST",
+			"img",
+			"4",
+			"Gallery",
+			"newsdetails",
+			"messages"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CHEMISTRY2004",
+			"\"/static/ang/assets/",
+			".cfe-load-comments",
+			"jmitch=#",
+			"'",
+			"ecommerce2",
+			"Control Guidance Solutions, LLC",
+			"class=\"fa fa-check fa-2x\"",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project/project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								1089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project/project/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project/index/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "project/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "project/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1221,
+								1221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "project/index/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 508.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "landing.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"templates\\home\\index.html"
+			],
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
