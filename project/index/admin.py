@@ -1,3 +1,6 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Poster, Seeker
+
+admin.site.register(Poster)
+admin.site.register(Seeker)

@@ -1,0 +1,188 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block body %}
+<style>
+  label{
+    color: white;
+  }
+  .form-text text-muted{
+    color: white;
+  }
+</style>
+
+
+  
+
+
+   
+      
+    <div class="slide-1" style="background-color: #353B40;" >
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-12">
+              <div class="row align-items-center">
+ 
+
+    <div class="col-lg-12 ml-auto" data-aos="fade-up" data-aos-delay="500" style="margin-top: 80px;">
+    <h5 style="color: white;">You're posting as a {{request.user.first_name}}</h5>
+<form method="post" enctype="multipart/form-data" action="{% url 'home:post' %}">{% csrf_token %}
+
+
+    <div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f0|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f1|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f2|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f3|as_crispy_field }}
+      </div>
+    
+    </div>
+   
+    <div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f4|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f5|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f6|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f7|as_crispy_field }}
+      </div>
+    </div> 
+<div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f8|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f9|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f10|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f11|as_crispy_field }}
+      </div>
+    </div> 
+<div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f12|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f13|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f14|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f15|as_crispy_field }}
+      </div>
+    </div> 
+
+
+<div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f16|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f17|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f18|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f19|as_crispy_field }}
+      </div>
+    </div> 
+
+
+<div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f20|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f21|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f22|as_crispy_field }}
+      </div>
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f23|as_crispy_field }}
+      </div>
+    </div> 
+<div class="form-row">
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f24|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f25|as_crispy_field }}
+      </div>
+
+    <div class="form-group col-md-3 mb-0">
+        {{ form.f27|as_crispy_field }}
+      </div>
+
+
+
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f29|as_crispy_field }}
+      </div>
+      <div class="form-group col-md-3 mb-0">
+        {{ form.f30|as_crispy_field }}
+      </div>
+
+</div>
+
+
+
+
+<input class="btn btn-primary" type="submit" value="Post" name="">
+
+
+</form>
+
+  <!-- Tab panes -->
+
+</div>  <!-- col-lg-5 -->
+ 
+
+
+
+
+
+
+                </div>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+
+     
+    
+
+    
+
+
+
+    
+
+
+
+
+    
+
+
+  
+    
+  </div> <!-- .site-wrap -->
+
+{% endblock %}

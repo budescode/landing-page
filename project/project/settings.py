@@ -38,8 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'social_django',
-    
+    'crispy_forms',
     'index',
+    'account',
 ]
 
 MIDDLEWARE = [
@@ -140,3 +141,18 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media_cdn')
 CRISPY_TEMPLATE_PACK='bootstrap4'
+
+
+
+# SOCIAL_AUTH_GITHUB_KEY = '44fd4145a8d85fda4ff1'
+# SOCIAL_AUTH_GITHUB_SECRET = '2de7904bdefe32d315805d3b7daec7906cc0e9e7'
+
+LOGIN_URL = 'login'
+LOGOUT_URL = 'logout'
+LOGIN_REDIRECT_URL = 'home'
+
+SOCIAL_AUTH_GITHUB_KEY = '399bc306d35ec9bcaf4e'
+SOCIAL_AUTH_GITHUB_SECRET = 'c80665cfaf0d163ef210403c66b1dc5a6c91d26e'
+
+SOCIAL_AUTH_FACEBOOK_KEY = "608312729669552"        # App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = "89191d63c6983f216d8c8aca9661086d"  # App Secret

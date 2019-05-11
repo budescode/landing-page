@@ -1,51 +1,11 @@
 {% extends 'base.html' %}
-
+{% load crispy_forms_tags %}
 {% block body %}
 
 
 
   
-  <div class="site-wrap">
 
-    <div class="site-mobile-menu site-navbar-target">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
-        </div>
-      </div>
-      <div class="site-mobile-menu-body"></div>
-    </div>
-   
-    
-    <header class="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
-      
-      <div class="container-fluid">
-        <div class="d-flex align-items-center">
-          <div class="site-logo mr-auto w-25"><a href="index.html">OneSchool</a></div>
-
-          <div class="mx-auto text-center">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-              <ul class="site-menu main-menu js-clone-nav mx-auto d-none d-lg-block  m-0 p-0">
-                <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="" class="nav-link">{{request.user.username}}</a></li>
- <!--                <li><a href="#programs-section" class="nav-link">Programs</a></li>
-                <li><a href="#teachers-section" class="nav-link">Teachers</a></li> -->
-              </ul>
-            </nav>
-          </div>
-
-          <div class="ml-auto w-25">
-            <nav class="site-navigation position-relative text-right" role="navigation">
-              <ul class="site-menu main-menu site-menu-dark js-clone-nav mr-auto d-none d-lg-block m-0 p-0">
-                <li class="cta"><a href="#contact-section" class="nav-link"><span>Contact Us</span></a></li>
-              </ul>
-            </nav>
-            <a href="#" class="d-inline-block d-lg-none site-menu-toggle js-menu-toggle text-black float-right"><span class="icon-menu h3"></span></a>
-          </div>
-        </div>
-      </div>
-      
-    </header>
 
     <div class="intro-section" id="home-section">
       
@@ -55,28 +15,124 @@
             <div class="col-12">
               <div class="row align-items-center">
                 <div class="col-lg-6 mb-4">
-                  <h1  data-aos="fade-up" data-aos-delay="100">Learn From The Expert</h1>
-                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
-                  <p data-aos="fade-up" data-aos-delay="300"><a href="#" class="btn btn-primary py-3 px-5 btn-pill">Admission Now</a></p>
+                {% if request.user.is_authenticated %}
+                  <h1  data-aos="fade-up" data-aos-delay="100">You're logged in as a {{category}}</h1>
+
+                 
+
+                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Click the button below to post</p>
+                  <p data-aos="fade-up" data-aos-delay="300"><a href="{% url 'home:post' %}" class="btn btn-primary py-3 px-5 btn-pill">Post</a></p>
+                   {% else %}
+
+                  <h1  data-aos="fade-up" data-aos-delay="100">Welcome...</h1>
+
+                 
+
+                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Login to post</p>
+                  
+                   {% endif %}
+
 
                 </div>
 
-                <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="500">
-                  <form action="" method="post" class="form-box">
-                    <h3 class="h4 text-black mb-4">Sign Up</h3>
+    <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="500">
+
+    {% if request.user.is_authenticated %}
+
+<form method="post" enctype="multipart/form-data" action="{% url 'home:search_field' %}" style="">{% csrf_token %}
+
+ {% if request.user.first_name == "Poster" %}
+    <div class="form-row">
+      <div class="form-group">
+        <input type="text" name="seeker">
+      </div>
+    
+    <div class="form-group">
+         <input type="submit" name="" value="Search Seeker">
+      </div>
+  
+    
+    </div>
+{% else %}
+
+    <div class="form-row">
+      <div class="form-group">
+        <input type="text" name="poster">
+      </div>
+    
+    <div class="form-group">
+         <input type="submit" name="" value="Search Poster">
+      </div>
+  
+    
+    </div>
+
+    {% endif %}
+
+  </form>
+
+    {% else %}
+               
+
+
+
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div id="home" class="container tab-pane active"><br>
+    <p> <h4 style="color: white;">Sign up as a poster or seeker</h4></p>
+      
+                  <form action="{% url 'account:register' %}" method="post" class="form-box"> {% csrf_token %}
+                    <h3 class="h4 text-black mb-4">Sign up as a seeker</h3>
                     <div class="form-group">
-                      <input type="text" class="form-control" placeholder="Email Addresss">
+                      {{ form.username|as_crispy_field }}
                     </div>
                     <div class="form-group">
-                      <input type="password" class="form-control" placeholder="Password">
+                      {{ form.email|as_crispy_field }}
                     </div>
                     <div class="form-group mb-4">
-                      <input type="password" class="form-control" placeholder="Re-type Password">
+                      {{ form.password|as_crispy_field }}
+                    </div>
+                    <div class="form-group mb-4">
+                      {{ form.category|as_crispy_field }}
                     </div>
                     <div class="form-group">
                       <input type="submit" class="btn btn-primary btn-pill" value="Sign up">
                     </div>
                   </form>
+    </div>
+
+
+
+
+          <div class="p-t-27" style="color: white;"> 
+          <span><b>Login with</b></span> 
+            <a href="{% url 'account:login' %}" class="">
+              <i class="fa fa-user"></i>
+            </a>
+            <a href="{% url 'social:begin' 'facebook' %}" class="">
+              <i class="fa fa-facebook"></i>
+            </a>
+            <a href="#" class="">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          <a href="{% url 'social:begin' 'github' %}" class="">
+            <i class="fa fa-github"></i>
+          </a>
+
+
+          </div>
+
+  </div>
+
+  {% endif %}
+</div>  <!-- col-lg-5 -->
+ 
+
+
+
+
+
 
                 </div>
               </div>

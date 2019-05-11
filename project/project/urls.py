@@ -15,8 +15,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from django.conf.urls import url, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("", include('index.urls')),
+    path("account/", include('account.urls')),
+    path("oauth/", include('social_django.urls', namespace='social')),
+    # url(r'^oauth/', include('social_django.urls', namespace='social')),
 ]
